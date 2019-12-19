@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.simplaex</groupId>
-  <artifactId>sugar-juice</artifactId>
+  <artifactId>guice-sugar</artifactId>
 
   <name>guice-sugar</name>
   <description>Sugar for Google Guice.</description>
