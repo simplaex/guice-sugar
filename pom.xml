@@ -11,12 +11,12 @@
   <description>Sugar for Google Guice.</description>
   <url>https://github.com/simplaex/guice-sugar</url>
 
-  <version>2019.12.19</version>
+  <version>2020.01.07</version>
   <packaging>jar</packaging>
 
   <properties>
-    <coverage.branch.minimum>0.8</coverage.branch.minimum>
-    <coverage.instruction.minimum>0.8</coverage.instruction.minimum>
+    <coverage.branch.minimum>0.7</coverage.branch.minimum>
+    <coverage.instruction.minimum>0.7</coverage.instruction.minimum>
     <coverage.branch.class.minimum>0.0</coverage.branch.class.minimum>
     <coverage.instruction.class.minimum>0.0</coverage.instruction.class.minimum>
     <coverage.branch.method.minimum>0.0</coverage.branch.method.minimum>
